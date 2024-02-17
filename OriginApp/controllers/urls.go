@@ -1,4 +1,4 @@
-package App1_Pages
+package OriginApp
 
 
 var urls []string = []string{
